@@ -20,5 +20,4 @@ Known issues
 ------------
 
 * On the Nexus 4, you can publish greyscale video only.
-* You can publish only one video in an app.
-* We have tested subscribing to only one video in an app.
+* We have tested subscribing to only one video.
