@@ -15,3 +15,10 @@ This version of the Android SDK uses Android API version 16 (4.1, Jelly Bean). T
 * Galaxy S3
 
 If you are able to get this working with an unlisted device, let us know!
+
+Known issues
+------------
+
+* On the Nexus 4, you can publish greyscale video only.
+* You can publish only one video in an app.
+* We have tested subscribing to only one video in an app.
