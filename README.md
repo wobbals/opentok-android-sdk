@@ -9,7 +9,6 @@ Supported Devices
 
 This version of the Android SDK uses Android API version 16 (4.1, Jelly Bean). The devices known to work with this SDK include:
 
-* Galaxy Nexus
 * Nexus 4
 * Nexus 7
 * Nexus 10
