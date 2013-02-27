@@ -3,6 +3,8 @@ OpenTok Android SDK
 
 This package contains what you need to get you started using the OpenTok Android SDK.
 
+__This package is an [OpenTok Labs](http://labs.opentok.com) project. It is not meant for general release just yet :)__
+
 
 Supported Devices
 -----------------
